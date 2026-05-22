@@ -1,2 +1,3 @@
-# OhayouSekai
-Primeiro repositório do curso de Git e GitHub
+# Ohayou Sekai!
+First repository Git/GitHub Course
+Testing first commits.
